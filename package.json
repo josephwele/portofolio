@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-portofolio",
+  "version": "1.0.0",
+  "description": "Assignment using bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephwele/Bootstrap-portofolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephwele/Bootstrap-portofolio/issues"
+  },
+  "homepage": "https://github.com/josephwele/Bootstrap-portofolio#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.2.1"
+  }
+}
